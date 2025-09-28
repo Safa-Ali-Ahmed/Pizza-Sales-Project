@@ -31,6 +31,10 @@ The goal is to help stakeholders identify revenue patterns, customer preferences
 - 📉 **Lowest Seller:** *Brie Carre Pizza* (least revenue/quantity).  
 
 ---
+### Dashboard:
+<img width="1316" height="732" alt="1" src="https://github.com/user-attachments/assets/26c85ae7-74d1-412e-9bf7-54a84abb79cf" />
+<img width="1318" height="725" alt="2" src="https://github.com/user-attachments/assets/50d1e403-0391-4718-8fa4-fcc38d9368e3" />
+
 
 ## 🛠️ Tools & Technologies
 - **SQL Server** – Data extraction & aggregation.  
