@@ -40,4 +40,4 @@ you can interact with dashboard from here:https://app.powerbi.com/groups/me/repo
 ## 🛠️ Tools & Technologies
 - **SQL Server** – Data extraction & aggregation.  
 - **Power BI Desktop** – Interactive dashboard & visualization.  
-- **Excel/CSV** – Data preparation and cleaning.  
+  
